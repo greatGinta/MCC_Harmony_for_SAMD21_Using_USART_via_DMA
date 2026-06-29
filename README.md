@@ -1,4 +1,4 @@
-# MCC Harmony for SAMD21 - Send ASCII Art via UART + DMA
+# MCC Harmony for SAMD21 - Send ASCII via UART + DMA
 
 Send **ASCII art** stored in flash memory to a terminal  
 using **UART communication with DMA transfer** on ATSAMD21J18A, configured via MCC Harmony.
