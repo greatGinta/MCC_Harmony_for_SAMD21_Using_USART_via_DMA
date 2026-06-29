@@ -4,7 +4,7 @@ Send **ASCII art** stored in flash memory to a terminal
 using **UART communication with DMA transfer** on ATSAMD21J18A, configured via MCC Harmony.
 
 ## 📹 Video Tutorial
-https://youtu.be/aaaa
+https://youtu.be/DglVz1QhKXs
 
 ## 🛠️ Tools & Hardware
 
